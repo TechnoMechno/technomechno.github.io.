@@ -1,5 +1,5 @@
 // JS Step 1: API configuration
-const API_KEY = ""; // Your API key goes in the empty string
+const API_KEY = "d5dde4d5dbc0f2550b0dc4dcd2ef51a2"; // Your API key goes in the empty string
 const BASE_URL = "https://api.themoviedb.org/3";
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500";
 
